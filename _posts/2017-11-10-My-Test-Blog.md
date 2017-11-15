@@ -26,8 +26,8 @@ published: true
     <td>Successfully post a blog to Github.</td>
   </tr>
   <tr>
-    <td>Did I reach my target? Yes </td>
-    <td></td>
+    <td>Did I reach my target?  </td>
+    <td>Yes</td>
   </tr>
 </table>
 
