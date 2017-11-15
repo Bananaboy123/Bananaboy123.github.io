@@ -39,19 +39,19 @@ published: true
   </tr>
   <tr>
     <td>Persevering</td>
-    <td></td>
+    <td>I persevered to find the branch.</td>
   </tr>
   <tr>
     <td>Questioning?</td>
-    <td></td>
+    <td>I asked myself how can I find the branch.</td>
   </tr>
   <tr>
     <td>Independence</td>
-    <td></td>
+    <td>I worked out how to find the branch myself.</td>
   </tr>
   <tr>
     <td>Reflecting</td>
-    <td></td>
+    <td>I could have found the branch quicker.</td>
   </tr>
   <tr>
     <td>Engagement</td>
@@ -59,7 +59,7 @@ published: true
   </tr>
   <tr>
     <td>What could have gone better in your learning?</td>
-    <td></td>
+    <td>I could have found the branch faster and worked harder.</td>
   </tr>
   <tr>
     <td></td>
@@ -67,7 +67,7 @@ published: true
   </tr>
   <tr>
     <td>What changes do you need to make to improve your learning next time?</td>
-    <td></td>
+    <td>Work quicker and harder.</td>
   </tr>
   <tr>
     <td></td>
