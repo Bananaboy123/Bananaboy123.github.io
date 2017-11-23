@@ -27,7 +27,7 @@ published: true
   </tr>
   <tr>
     <td>Did I reach my target? </td>
-    <td>Yes</td>
+    <td>Yes.</td>
   </tr>
 </table>
 
